@@ -1,5 +1,5 @@
-# Phase 2: Content Mastery (Weeks 5–12)
-**Dates:** September – October 2026 | **Practice Tests Used:** Test 5 (Week 8), Test 6 (Week 12)
+# Phase 2: Content Mastery (Weeks 5–13)
+**Dates:** September – November 2026 | **Practice Tests Used:** Test 5 (Week 9), Test 6 (Week 13)
 
 ---
 
@@ -45,7 +45,21 @@
 
 ---
 
-## Week 8: Math — Functions & Practice Test 5
+## Week 8: Math — Problem-Solving & Data Analysis
+
+| Day | Time | Activity |
+|-----|------|----------|
+| **Mon** | 70 min | ☐ Study: Ratios, rates, and proportional relationships — setting up proportions, unit rates, scaling problems. Practice 12 problems. |
+| **Tue** | 70 min | ☐ Study: Percentages — percent increase/decrease, multi-step percent problems, markup/markdown, simple & compound interest. Practice 12 problems. |
+| **Wed** | 70 min | ☐ Study: One-variable data — mean, median, mode, range, standard deviation, interpreting box plots, histograms, and dot plots. Practice 12 problems. |
+| **Thu** | 70 min | ☐ Study: Two-variable data — scatterplots, line of best fit, correlation vs. causation, residuals, interpreting slope/intercept of models. Practice 12 problems. |
+| **Fri** | 70 min | ☐ Study: Probability & statistical inference — basic probability, conditional probability, two-way tables, margin of error, sampling methods, observational studies vs. experiments. Practice 12 problems. |
+| **Sat** | 2 hr | ☐ Study: Units & unit conversion — dimensional analysis, converting between units in multi-step problems. Timed drill: 15 mixed PSDA questions in 25 min. Score. Deep review. |
+| **Sun** | 30 min | ☐ Weekly reflection. Confidence: Problem-Solving & Data Analysis ___/5. |
+
+---
+
+## Week 9: Math — Functions & Practice Test 5
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -57,7 +71,7 @@
 | **Sat** | 3 hr | ☐ **TAKE PRACTICE TEST 5** under full timed conditions. Score and record in `score_tracker.md`. |
 | **Sun** | 1.5 hr | ☐ **Deep analysis of Test 5.** Compare to Test 4 diagnostic. Categorize all errors. Note improvements and remaining gaps. |
 
-### ✅ Week 8 Checkpoint (Midpoint)
+### ✅ Week 9 Checkpoint (Midpoint)
 - [ ] Practice Test 5 completed: RW ___/800 | Math ___/800 | Total ___/1600
 - [ ] Score change from Test 4: RW ___  | Math ___ | Total ___
 - [ ] Top 3 remaining weak areas identified:
@@ -65,7 +79,7 @@
 
 ---
 
-## Week 9: Reading & Writing — Standard English Conventions (Grammar)
+## Week 10: Reading & Writing — Standard English Conventions (Grammar)
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -79,7 +93,7 @@
 
 ---
 
-## Week 10: Reading & Writing — Expression of Ideas
+## Week 11: Reading & Writing — Expression of Ideas
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -93,7 +107,7 @@
 
 ---
 
-## Week 11: Math — Advanced Math
+## Week 12: Math — Advanced Math
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -107,7 +121,7 @@
 
 ---
 
-## Week 12: Math — Geometry, Trig & Practice Test 6
+## Week 13: Math — Geometry, Trig & Practice Test 6
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -119,7 +133,7 @@
 | **Sat** | 3 hr | ☐ **TAKE PRACTICE TEST 6** under full timed conditions. Score and record in `score_tracker.md`. |
 | **Sun** | 1.5 hr | ☐ **Deep analysis of Test 6.** Compare to Tests 4 and 5. Trend analysis: are scores improving? Which topics still need work? |
 
-### ✅ Week 12 Checkpoint (Phase 2 Exit)
+### ✅ Week 13 Checkpoint (Phase 2 Exit)
 - [ ] Practice Test 6 completed: RW ___/800 | Math ___/800 | Total ___/1600
 - [ ] Score progression: Test 4 → Test 5 → Test 6: ___ → ___ → ___
 - [ ] All RW topics studied in depth ✅

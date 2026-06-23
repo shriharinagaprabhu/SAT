@@ -2,7 +2,7 @@
 
 **Target Test Date:** March or April 2027  
 **Prep Start Date:** August 2026 (Start of 11th Grade)  
-**Total Duration:** ~32 weeks  
+**Total Duration:** ~33 weeks  
 **Daily Commitment:** 1–1.5 hours (weekdays), 2–3 hours (weekends)  
 
 ---
@@ -24,13 +24,13 @@
 | Practice Test | File | Purpose |
 |---------------|------|---------|
 | Test 4 | `sat-practice-test-4-digital.pdf` | Week 1 Diagnostic |
-| Test 5 | `sat-practice-test-5-digital.pdf` | Week 8 Midpoint Check |
-| Test 6 | `sat-practice-test-6-digital.pdf` | Week 12 Phase 2 Exit |
-| Test 7 | `sat-practice-test-7-digital.pdf` | Week 16 Midpoint Check |
-| Test 8 | `sat-practice-test-8-digital.pdf` | Week 20 Phase 3 Exit |
-| Test 9 | `sat-practice-test-9-digital.pdf` | Week 24 Timed Drill |
-| Test 10 | `sat-practice-test-10-digital.pdf` | Week 28 Dress Rehearsal |
-| Test 11 | `sat-practice-test-11-digital.pdf` | Week 31 Final Mock |
+| Test 5 | `sat-practice-test-5-digital.pdf` | Week 9 Midpoint Check |
+| Test 6 | `sat-practice-test-6-digital.pdf` | Week 13 Phase 2 Exit |
+| Test 7 | `sat-practice-test-7-digital.pdf` | Week 17 Midpoint Check |
+| Test 8 | `sat-practice-test-8-digital.pdf` | Week 21 Phase 3 Exit |
+| Test 9 | `sat-practice-test-9-digital.pdf` | Week 25 Timed Drill |
+| Test 10 | `sat-practice-test-10-digital.pdf` | Week 29 Dress Rehearsal |
+| Test 11 | `sat-practice-test-11-digital.pdf` | Week 32 Final Mock |
 
 ---
 
@@ -40,8 +40,8 @@
  PHASE 1         PHASE 2           PHASE 3           PHASE 4          PHASE 5
  Diagnostic &    Content           Strategy &        Intensive        Final
  Foundation      Mastery           Application       Practice         Review
- Weeks 1-4       Weeks 5-12        Weeks 13-20       Weeks 21-28      Weeks 29-32
- Aug 2026        Sep-Oct 2026      Nov 2026-Jan 2027 Jan-Mar 2027     Mar 2027
+ Weeks 1-4       Weeks 5-13        Weeks 14-21       Weeks 22-29      Weeks 30-33
+ Aug 2026        Sep-Nov 2026      Nov 2026-Jan 2027 Jan-Mar 2027     Mar 2027
     |                |                  |                 |               |
     v                v                  v                 v               v
  [Test 4]     [Test 5] [Test 6]   [Test 7] [Test 8]  [Test 9][Test 10] [Test 11]
@@ -56,10 +56,10 @@
 | File | Description |
 |------|-------------|
 | [phase1_foundation.md](phase1_foundation.md) | Weeks 1–4: Diagnostic test, identify weaknesses, build fundamentals |
-| [phase2_content_mastery.md](phase2_content_mastery.md) | Weeks 5–12: Systematic topic-by-topic study |
-| [phase3_strategy.md](phase3_strategy.md) | Weeks 13–20: Test-taking strategies & timed practice |
-| [phase4_intensive.md](phase4_intensive.md) | Weeks 21–28: Full timed tests & deep error analysis |
-| [phase5_final_review.md](phase5_final_review.md) | Weeks 29–32: Final mock, review, and test-day prep |
+| [phase2_content_mastery.md](phase2_content_mastery.md) | Weeks 5–13: Systematic topic-by-topic study |
+| [phase3_strategy.md](phase3_strategy.md) | Weeks 14–21: Test-taking strategies & timed practice |
+| [phase4_intensive.md](phase4_intensive.md) | Weeks 22–29: Full timed tests & deep error analysis |
+| [phase5_final_review.md](phase5_final_review.md) | Weeks 30–33: Final mock, review, and test-day prep |
 | [daily_schedule.md](daily_schedule.md) | Standard daily study schedule template |
 | [weekly_checklist.md](weekly_checklist.md) | Reusable weekly checklist with tracking |
 | [score_tracker.md](score_tracker.md) | Score tracking sheet across all practice tests |

@@ -1,9 +1,9 @@
-# Phase 3: Strategy & Application (Weeks 13–20)
-**Dates:** November 2026 – January 2027 | **Practice Tests Used:** Test 7 (Week 16), Test 8 (Week 20)
+# Phase 3: Strategy & Application (Weeks 14–21)
+**Dates:** November 2026 – January 2027 | **Practice Tests Used:** Test 7 (Week 17), Test 8 (Week 21)
 
 ---
 
-## Week 13: RW Pacing & Strategy
+## Week 14: RW Pacing & Strategy
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -17,7 +17,7 @@
 
 ---
 
-## Week 14: RW Strategy — Harder Question Types
+## Week 15: RW Strategy — Harder Question Types
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -31,7 +31,7 @@
 
 ---
 
-## Week 15: Math Pacing & Strategy
+## Week 16: Math Pacing & Strategy
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -45,7 +45,7 @@
 
 ---
 
-## Week 16: Math Strategy Refinement & Practice Test 7
+## Week 17: Math Strategy Refinement & Practice Test 7
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -64,7 +64,7 @@
 
 ---
 
-## Week 17: Mixed Practice — Endurance Building (RW Focus)
+## Week 18: Mixed Practice — Endurance Building (RW Focus)
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -78,7 +78,7 @@
 
 ---
 
-## Week 18: Mixed Practice — Endurance Building (Math Focus)
+## Week 19: Mixed Practice — Endurance Building (Math Focus)
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -92,7 +92,7 @@
 
 ---
 
-## Week 19: Full Test Simulation Practice
+## Week 20: Full Test Simulation Practice
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -106,7 +106,7 @@
 
 ---
 
-## Week 20: Practice Test 8 & Phase 3 Exit
+## Week 21: Practice Test 8 & Phase 3 Exit
 
 | Day | Time | Activity |
 |-----|------|----------|

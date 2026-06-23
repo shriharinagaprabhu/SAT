@@ -1,11 +1,11 @@
-# Phase 5: Final Review & Test Day (Weeks 29–32)
-**Dates:** March 2027 | **Practice Test Used:** Test 11 (Week 31 — Final Mock)
+# Phase 5: Final Review & Test Day (Weeks 30–33)
+**Dates:** March 2027 | **Practice Test Used:** Test 11 (Week 32 — Final Mock)
 
 ---
 
-## Week 29: Comprehensive Error Review & Cheat Sheet Creation
+## Week 30: Comprehensive Error Review & Cheat Sheet Creation
 
-**Goal:** Look back at the entire 28-week journey. Consolidate everything into a personal cheat sheet.
+**Goal:** Look back at the entire 29-week journey. Consolidate everything into a personal cheat sheet.
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -17,14 +17,14 @@
 | **Sat** | 90 min | ☐ Light practice: 15 RW + 15 Math questions from your historically weakest areas. Use your cheat sheet strategies. Score. |
 | **Sun** | 30 min | ☐ Weekly reflection. Finalize cheat sheet. Laminate or neatly rewrite for final week review. |
 
-### ✅ Week 29 Checkpoint
+### ✅ Week 30 Checkpoint
 - [ ] Reviewed all error logs from Tests 4–10
 - [ ] Personal Cheat Sheet created (RW + Math, 2 pages total)
 - [ ] Can recall 80%+ of cheat sheet from memory
 
 ---
 
-## Week 30: Light Practice & Logistics
+## Week 31: Light Practice & Logistics
 
 **Goal:** Stay sharp without burning out. Start planning test-day logistics.
 
@@ -38,7 +38,7 @@
 | **Sat** | 60 min | ☐ Light mixed practice: 10 RW + 10 Math. No pressure — this is maintenance, not cramming. |
 | **Sun** | 20 min | ☐ Weekly reflection. Confidence level: ___/10. You are ready. Prepare for final mock next week. |
 
-### ✅ Week 30 Checkpoint
+### ✅ Week 31 Checkpoint
 - [ ] Completed light daily practice (no burnout)
 - [ ] Test center location confirmed
 - [ ] Route and travel time planned
@@ -46,7 +46,7 @@
 
 ---
 
-## Week 31: Final Mock — Practice Test 11
+## Week 32: Final Mock — Practice Test 11
 
 **Goal:** One last full test under perfect conditions. This is your final data point.
 
@@ -60,7 +60,7 @@
 | **Sat** | 4 hr | ☐ **TAKE PRACTICE TEST 11** — Simulate EXACT test-day conditions: Wake at 7 AM. Light breakfast. Start at 8 AM. Full timing. 10-min break between sections. No phone. Score afterward. Record in `score_tracker.md`. |
 | **Sun** | 1.5 hr | ☐ **Final review.** Score analysis. Compare to all previous tests. This is your predicted score range. Write down 3 things you're proud of and 1 thing to watch out for on test day. |
 
-### ✅ Week 31 Checkpoint
+### ✅ Week 32 Checkpoint
 - [ ] Practice Test 11 completed: RW ___/800 | Math ___/800 | Total ___/1600
 - [ ] Final score progression: 4→5→6→7→8→9→10→11: ___→___→___→___→___→___→___→___
 - [ ] Predicted score range: ___ to ___
@@ -68,7 +68,7 @@
 
 ---
 
-## Week 32: Test Week — Rest & Prepare
+## Week 33: Test Week — Rest & Prepare
 
 **Goal:** NO new material. Maintain confidence. Execute your plan.
 

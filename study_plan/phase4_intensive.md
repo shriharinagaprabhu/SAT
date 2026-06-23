@@ -1,9 +1,9 @@
-# Phase 4: Intensive Practice (Weeks 21–28)
-**Dates:** January – March 2027 | **Practice Tests Used:** Test 9 (Week 24), Test 10 (Week 28)
+# Phase 4: Intensive Practice (Weeks 22–29)
+**Dates:** January – March 2027 | **Practice Tests Used:** Test 9 (Week 25), Test 10 (Week 29)
 
 ---
 
-## Week 21: Weak Area Intensive — Area #1
+## Week 22: Weak Area Intensive — Area #1
 
 **Focus:** Your weakest content area from Phase 3 exit analysis (fill in below).
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Week 22: Weak Area Intensive — Areas #2 and #3
+## Week 23: Weak Area Intensive — Areas #2 and #3
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -35,7 +35,7 @@
 
 ---
 
-## Week 23: Full Section Timed Practice
+## Week 24: Full Section Timed Practice
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -49,7 +49,7 @@
 
 ---
 
-## Week 24: Practice Test 9 & Midpoint Check
+## Week 25: Practice Test 9 & Midpoint Check
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -61,7 +61,7 @@
 | **Sat** | 3 hr | ☐ **TAKE PRACTICE TEST 9** under full timed conditions. Score and record in `score_tracker.md`. |
 | **Sun** | 2 hr | ☐ **Deep analysis.** Compare to target score. How far are you? What's the gap? Prioritize remaining improvements. |
 
-### ✅ Week 24 Checkpoint
+### ✅ Week 25 Checkpoint
 - [ ] Practice Test 9 completed: RW ___/800 | Math ___/800 | Total ___/1600
 - [ ] Score progression: 4→5→6→7→8→9: ___→___→___→___→___→___
 - [ ] Gap to target score: ___ points
@@ -69,7 +69,7 @@
 
 ---
 
-## Week 25: Highest-ROI Improvements (RW)
+## Week 26: Highest-ROI Improvements (RW)
 
 **Focus:** The RW question types where you lose the most points.
 
@@ -85,7 +85,7 @@
 
 ---
 
-## Week 26: Highest-ROI Improvements (Math)
+## Week 27: Highest-ROI Improvements (Math)
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -99,7 +99,7 @@
 
 ---
 
-## Week 27: Full Simulated Test Conditions
+## Week 28: Full Simulated Test Conditions
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -113,7 +113,7 @@
 
 ---
 
-## Week 28: Dress Rehearsal — Practice Test 10
+## Week 29: Dress Rehearsal — Practice Test 10
 
 | Day | Time | Activity |
 |-----|------|----------|
@@ -125,7 +125,7 @@
 | **Sat** | 4 hr | ☐ **TAKE PRACTICE TEST 10** — Full dress rehearsal. Wake at 7 AM, light breakfast, start at 8 AM. Full timed conditions. Score and record in `score_tracker.md`. |
 | **Sun** | 2 hr | ☐ **Final Phase 4 analysis.** This score should be close to your target. Identify any last-minute adjustments for Phase 5. |
 
-### ✅ Week 28 Checkpoint (Phase 4 Exit / Dress Rehearsal)
+### ✅ Week 29 Checkpoint (Phase 4 Exit / Dress Rehearsal)
 - [ ] Practice Test 10 completed: RW ___/800 | Math ___/800 | Total ___/1600
 - [ ] Score progression: 4→5→6→7→8→9→10: ___→___→___→___→___→___→___
 - [ ] Within target range? Y/N (Target: ___)
