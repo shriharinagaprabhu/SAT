@@ -1,0 +1,128 @@
+# Daily Study Schedule Template
+
+Use this template each weekday and weekend to structure study sessions.
+
+---
+
+## Weekday Schedule (1–1.5 hours)
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                     WEEKDAY STUDY SESSION                           │
+├──────────┬───────────────────────────────────────────────────────────┤
+│ Duration │ Activity                                                 │
+├──────────┼───────────────────────────────────────────────────────────┤
+│  5 min   │ ☐ WARM-UP: Review yesterday's error log                 │
+│          │   - Re-read 2-3 problems you got wrong                  │
+│          │   - Recall the correct approach                         │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 25 min   │ ☐ FOCUSED STUDY: Topic of the day                       │
+│          │   - Read concept notes / watch tutorial                 │
+│          │   - Work through 3-5 example problems step-by-step      │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 25 min   │ ☐ TIMED PRACTICE: Drill problems                        │
+│          │   - 10-15 practice questions on today's topic           │
+│          │   - Simulate test conditions (no phone, timed)          │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 10 min   │ ☐ REVIEW & LOG: Analyze mistakes                        │
+│          │   - Mark each wrong answer with the reason:             │
+│          │     [C] Careless  [K] Knowledge Gap  [T] Time Pressure  │
+│          │   - Write correct solutions in error log                │
+├──────────┼───────────────────────────────────────────────────────────┤
+│  5 min   │ ☐ PLAN: Preview tomorrow's topic                        │
+│          │   - Glance at the next day's material                   │
+│          │   - Note any questions to look up                       │
+└──────────┴───────────────────────────────────────────────────────────┘
+  Total: ~70 minutes
+```
+
+---
+
+## Weekend Schedule (2–3 hours)
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                     WEEKEND STUDY SESSION                           │
+├──────────┬───────────────────────────────────────────────────────────┤
+│ Duration │ Activity                                                 │
+├──────────┼───────────────────────────────────────────────────────────┤
+│  5 min   │ ☐ WARM-UP: Review the week's error log                  │
+│          │   - Identify patterns in mistakes                       │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 35 min   │ ☐ MODULE PRACTICE: Timed half-section                   │
+│          │   - One full module of RW (32 min) OR Math (35 min)     │
+│          │   - Strict timing, no breaks                            │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 15 min   │ ☐ REVIEW MODULE: Go through every answer                │
+│          │   - Check answers, read explanations                    │
+│          │   - Log mistakes in error tracker                       │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 10 min   │ ☐ BREAK                                                 │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 30 min   │ ☐ DEEP DIVE: Weakest topic of the week                  │
+│          │   - Work through concept from scratch                   │
+│          │   - Do 10 targeted problems                             │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 20 min   │ ☐ VOCABULARY / GRAMMAR REVIEW (RW Focus)                │
+│          │   - 10 new vocabulary words in context                  │
+│          │   - 5 grammar rule practice questions                   │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 10 min   │ ☐ WEEKLY REFLECTION                                     │
+│          │   - Fill out the Weekly Checklist                       │
+│          │   - Rate confidence 1-5 on each topic studied           │
+│          │   - Set goals for next week                             │
+└──────────┴───────────────────────────────────────────────────────────┘
+  Total: ~125 minutes (Sat) | Full Practice Test day (Sun, once/month)
+```
+
+---
+
+## Full Practice Test Day (One Sunday per month)
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                   FULL PRACTICE TEST DAY                            │
+├──────────┬───────────────────────────────────────────────────────────┤
+│ Duration │ Activity                                                 │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 10 min   │ ☐ SET UP: Clear desk, timer, #2 pencils, calculator     │
+│          │   - Put phone in another room                           │
+│          │   - Have water and a light snack ready for break        │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 64 min   │ ☐ SECTION 1: Reading & Writing                          │
+│          │   - Module 1: 27 questions, 32 minutes                  │
+│          │   - Module 2: 27 questions, 32 minutes                  │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 10 min   │ ☐ BREAK (same as real test day)                         │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 70 min   │ ☐ SECTION 2: Math                                       │
+│          │   - Module 1: 22 questions, 35 minutes                  │
+│          │   - Module 2: 22 questions, 35 minutes                  │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 30 min   │ ☐ BREAK / LUNCH                                         │
+├──────────┼───────────────────────────────────────────────────────────┤
+│ 60 min   │ ☐ SCORE & DEEP REVIEW                                   │
+│          │   - Score using the scoring guide                       │
+│          │   - Record in score_tracker.md                          │
+│          │   - Categorize every error by topic and error type      │
+│          │   - Write down the top 3 takeaways                      │
+└──────────┴───────────────────────────────────────────────────────────┘
+  Total: ~4 hours (including breaks and review)
+```
+
+---
+
+## Error Log Format
+
+Use this format to track every mistake:
+
+```
+| Date | Test/Source | Q# | Section | Topic | My Answer | Correct | Error Type | Notes |
+|------|------------|----|---------|-------|-----------|---------|------------|-------|
+|      |            |    | RW/Math |       |           |         | C/K/T      |       |
+```
+
+**Error Types:**
+- **C = Careless:** You knew how to solve it but made a silly mistake
+- **K = Knowledge Gap:** You didn't know the concept or rule
+- **T = Time Pressure:** You ran out of time or rushed
